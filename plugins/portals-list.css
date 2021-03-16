@@ -96,9 +96,9 @@
 
 #portalslist .history {
   text-align: center;
-  vertical-align: middle;
   font-size: 20px;
   line-height: 13px;
+  vertical-align: middle;
 }
 
 #portalslist .history.unvisited {
